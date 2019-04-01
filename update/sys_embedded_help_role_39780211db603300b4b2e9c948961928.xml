@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_332699_needit.needit_user" name="x_332699_needit.needit_user">f1780211db603300b4b2e9c948961926</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-03-31 18:27:20</sys_created_on>
+        <sys_id>39780211db603300b4b2e9c948961928</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>f1780211db603300b4b2e9c948961926</sys_name>
+        <sys_package display_value="Needit" source="x_332699_needit">f5d782dddb203300b4b2e9c94896195d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Needit">f5d782dddb203300b4b2e9c94896195d</sys_scope>
+        <sys_update_name>sys_embedded_help_role_39780211db603300b4b2e9c948961928</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-03-31 18:27:20</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
